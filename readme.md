@@ -6,7 +6,7 @@ khlduhfiurf
 SD;HQOIWC,hABSD
 
 
-[lorem ipsum](http://google.com)
+[patika link](http://patika.dev)
 SD;HQO
 
 s
